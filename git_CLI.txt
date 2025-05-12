@@ -1,0 +1,6 @@
+git add 파일명 = stage 추가
+git pull origin master = git에 있는 파일 복사
+git push origin master = git으로 파일 복사
+git commit -m '설명' = 버전 설명 추가
+git colon $ git clone https://github.com/kkkddkkk/iTshirt.git = git을 로컬 컴퓨터에 clone
+
